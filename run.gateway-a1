@@ -1,0 +1,7 @@
+#!/bin/bash
+nodename=`echo $0|sed 's/.\/run.//g'`
+echo $nodename
+if [[ $nodename == *gateway-a* ]] 
+then
+    echo "This is a Gateway"
+fi

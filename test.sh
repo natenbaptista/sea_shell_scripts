@@ -1,0 +1,72 @@
+#!/bin/bash
+G_station --msg 192.168.110.179 SPKCTLVOL_1_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_2_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_3_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_4_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_5_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_6_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_7_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_8_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_9_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_10_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_11_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_12_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_13_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_14_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_15_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_16_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_17_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_18_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_19_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_20_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_21_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_22_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_23_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_24_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_25_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_26_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_27_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_28_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_29_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_30_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_31_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_32_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_33_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_34_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_35_VALUE_10_
+sleep 1
+G_station --msg 192.168.110.179 SPKCTLVOL_36_VALUE_10_
